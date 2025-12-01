@@ -5,8 +5,8 @@ FROM $BUILD_FROM
 RUN apk add --no-cache python3 py3-pip git
 
 # Upgrade pip & install Python deps
-RUN pip3 install --no-cache-dir --upgrade pip && \
-    pip3 install --no-cache-dir flask flask-cors pyserial
+RUN pip3 install --no-cache-dir --upgrade pip
+RUN pip3 install --no-cache-dir flask flask-cors pyserial
 
 # Copy API
 RUN git clone https://github.com/paulsbroomfield/flashforge-finder-api.git /opt/fff_api

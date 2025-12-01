@@ -1,0 +1,480 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"thins",
+				"thingsFound"
+			],
+			[
+				"build",
+				"buildoutput2"
+			],
+			[
+				"track",
+				"trackingPixels"
+			],
+			[
+				"console",
+				"consoleLogs"
+			],
+			[
+				"Ext",
+				"Extension"
+			],
+			[
+				"getElement",
+				"getElementById"
+			],
+			[
+				"sc",
+				"scanResults"
+			],
+			[
+				"temp",
+				"tempCSVHTML"
+			],
+			[
+				"menu",
+				"menuItem"
+			],
+			[
+				"men",
+				"menuItems"
+			],
+			[
+				"th",
+				"thingsFound"
+			],
+			[
+				"scan",
+				"scan_results"
+			],
+			[
+				"s3",
+				"s3OutputFilePath"
+			],
+			[
+				"prom",
+				"Promise"
+			],
+			[
+				"getEle",
+				"getElementById"
+			],
+			[
+				"get",
+				"get_access_token"
+			],
+			[
+				"book",
+				"bookings_api"
+			],
+			[
+				"che",
+				"checkIn"
+			],
+			[
+				"da",
+				"datePickerField"
+			],
+			[
+				"bookNow",
+				"bookNowButtonA"
+			],
+			[
+				"pro",
+				"property_id"
+			],
+			[
+				"g",
+				"guesty_options"
+			],
+			[
+				"proper",
+				"property_id"
+			],
+			[
+				"search",
+				"search_results_json"
+			],
+			[
+				"str_re",
+				"str_repeat()"
+			],
+			[
+				"def",
+				"default_value"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/paulbroomfield/Downloads/info",
+			"settings":
+			{
+				"buffer_size": 1089,
+				"encoding": "Western (Windows 1252)",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/G-Raid Mini 1TB/CODE/hassio-addons"
+	],
+	"file_history":
+	[
+		"/Volumes/G-Raid Mini 1TB/CODE/flashforge/scan_codes.py",
+		"/Users/paulbroomfield/Downloads/AD3 lite/Adventurer3-Lite-1.2.5-2.1-20230725/finder-web.txt",
+		"/Users/paulbroomfield/Downloads/Adventurer3-pro2-1.2.7-3.23/library-1.0.0/ffstartup.cfg",
+		"/Users/paulbroomfield/Downloads/Adventurer3-pro2-1.2.7-3.23/library-1.0.0/env.cfg",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/auspost/launch/globalFunction.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/carsales/make and model affinity/BIG V15 - Full.sql",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/carsales/make and model affinity/BIG V14 - Full.sql",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/carsales/scrapeOrgChat/scrapeOrgChat.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/scanner/shared_functions.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/scanner/scan_extension.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/scanner/scan.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/scanner/scan_rule.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/scanner/output.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/scanner/scan_data_element.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/panel.html",
+		"/Users/paulbroomfield/Downloads/racv_mappings.txt",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/defeat diabetes/klaviyo to bigquery/node/getProfilesPaged.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/carsales/Custom Targeting/pubAds.js",
+		"/Users/paulbroomfield/Downloads/snes_netlist.csv",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/main.css",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/carsales/gam data/validating ids/main.sql",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/panel.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/auspost/nps and surveys/test.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/carsales/single identity research/check_frontend_events.sql",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/BBQG/Bloomreach dev secret",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/carsales/s3 communities/new ACL.json",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/auspost/fullstory/nps survey/parent eventlistiner.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/carsales/s3 communities/old ACL.json",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/carsales/gam data/bigquery - count carsid and appinstanceid.sql",
+		"/Users/paulbroomfield/Desktop/racv_ webapp experience events - structure.json",
+		"/Users/paulbroomfield/Desktop/giantbomb - zelda games.json",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/BBQG/sftpkey",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/injected.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/content.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/background.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/devtools.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/manifest.json",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/scanner/outputV2.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/scanner/outputV3.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/scanner/lib.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/scanner/tool.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/carsales/microsite launch setup/ceros.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/BBQG/bloomreach_merge_feeds/index.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/BBQG/productMapping/aws",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/dockers/mtlapi/node_modules/aws-sdk/lib/resource_waiter.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/carsales/aep_optimizely_segments/optimizely_code_v2.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/carsales/aep_optimizely_segments/optimizely_code_v1.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/OZSALE/Insider Exports/ozsale_sms-There are no SMS global unsubs for ozsale",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/BBQG/aws-glue/merge_job.py",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/BBQG/aws-glue/1_convert_ominvore_to_csv.py",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/BBQG/productMapping/products_no_newlines.json",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/BBQG/productMapping/products.json",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/BBQG/productMapping/product_mapping.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/carsales/make and model affinity/BIG V14 - Part B.sql",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/carsales/make and model affinity/BIG V14 - Part A.sql",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/carsales/make and model affinity/BIG V14.sql",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/defeat diabetes/klaviyo to bigquery/node/getEventsPaged.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/scanner/aa.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/assets/tracking_domains/enrichments.txt",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/assets/tracking_domains/widgets.txt",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/assets/tracking_domains/fake.txt",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/scanner/main.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/assets/tracking_domains/analytics.txt",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/assets/tracking_domains/affiliate.txt",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/assets/tracking_domains/ads.txt",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/workspace/chrome-ext/launch-scanner/assets/tracking_domains/README.md",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/defeat diabetes/bigquery sql/emails.txt",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/carsales/make and model affinity/tracking_audit.sql",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/defeat diabetes/klaviyo to bigquery/node/getMetricsPaged.js",
+		"/Users/paulbroomfield/Library/CloudStorage/GoogleDrive-paul.broomfield@civicdata.com.au/My Drive/carsales/make and model affinity/BIG V13.sql",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/elementor/assets/js/app.js",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/elementor/app/modules/import-export/module.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/elementor-pro/modules/theme-builder/classes/locations-manager.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/elementor/modules/kit-elements-defaults/import-export/runners/import.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-config.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/includes/bookings_api/bookings_search/class_bookings.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/includes/bookings_api/bookings_search/elementor.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/elementor/widgets/bookings-api-ajax-search-form.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/elementor-pro/license/admin.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/elementor-pro/license/api.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/elementor/core/utils/import-export/parsers/wxr-parser-simple-xml.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/dynamic-content-for-elementor/plugin-utils/license.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/dynamic-content-for-elementor/plugin-utils/admin-pages/pages/license-page.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/dynamic-content-for-elementor/plugin-utils/license-interface.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/elementor/js/bookings_date_picker_field.js",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/guesty-api.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/includes/open_api/main.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/includes/open_api/listings/class_open_api.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/includes/open_api/class_open_api.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/functions.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/elementor/widgets/bookings-api-book-now-widget.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/elementor/widgets/bookings-api-payment-form.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-settings.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/elementor/js/bookings_book_now_widget.js",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/elementor/forms/fields/booking-api-date-picker.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/elementor/js/bookings_search_results_page.js",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/elementor/js/guesty_main.js",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/elementor/widgets/bookings-api-querystring-search-form.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/error_log",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/index.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/.htaccess",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/includes/bookings_api/bookings_search/class_booking_payment.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/elementor/style/booking_payment_form.css",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/elementor/includes/base/controls-stack.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/TODO.md",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/elementor-addon.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/includes/bookings_api/bookings_search/class_bookings_search.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/elementor-pro/modules/library/classes/shortcode.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/elementor/includes/frontend.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/elementor-pro/core/app/modules/site-editor/data/endpoints/conditions-config.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/includes/bookings_api/main.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/includes/bookings_api/bookings_search/class_booking_reservation.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/dynamic-content-for-elementor/dynamic-license/license.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/dynamic-content-for-elementor/languages/dynamic-content-for-elementor.pot",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/dynamic-content-for-elementor/languages/dynamic-content-for-elementor.po",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/elementor/js/bookings_search_api_querystring.js",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/1_create_root_cert_and_key.sh",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/elementor/forms/actions/bookings-api-ajax-search.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/elementor-pro/assets/js/form.a7e78a23dbf43d6f2639.bundle.js",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/includes/bookings_api/bookings_search/js/main.js",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/elementor/js/bookings_search_by_ajax.js",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/elementor/style/booking_search.css",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/elementor/includes/base/element-base.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/elementor/includes/base/widget-base.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/elementor-pro/modules/forms/widgets/form.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/elementor/js/bookings_search_single_post.js",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/elementor/widgets/bookings-api-ajax-search-form-single-post.php",
+		"/Users/paulbroomfield/Documents/CODE/discoverdaylesford.com/dev.discoverdaylesford.com.nosync/wp-content/plugins/guesty-api/elementor/widgets/bookings-api-ajax-search-form-single.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/paulbroomfield/Downloads/info",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 3098.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "hassio-addons.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 387.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
