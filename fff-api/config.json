@@ -6,7 +6,6 @@
   "startup": "services",
   "boot": "auto",
   "arch": ["aarch64", "armv7", "amd64"],
-  "image": "local",
   "ports": {
     "5000/tcp": 5000
   },
