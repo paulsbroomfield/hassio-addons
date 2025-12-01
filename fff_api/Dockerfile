@@ -9,8 +9,8 @@ RUN pip3 install --no-cache-dir --upgrade pip && \
     pip3 install --no-cache-dir flask flask-cors pyserial
 
 # Copy API
-RUN git clone https://github.com/johnpdowling/flashforge-finder-api.git /opt/fff-api
-WORKDIR /opt/fff-api
+RUN git clone https://github.com/paulsbroomfield/flashforge-finder-api.git /opt/fff_api
+WORKDIR /opt/fff_api
 
 # Copy rootfs
 COPY rootfs /
