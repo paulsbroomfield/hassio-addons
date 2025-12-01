@@ -1,7 +1,6 @@
 {
   "name": "Flashforge Finder API",
   "version": "0.0.6",
-  "image": "local/fff_api",
   "slug": "fff_api",
   "description": "API server for Flashforge Finder",
   "startup": "services",

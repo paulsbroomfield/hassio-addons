@@ -1,5 +1,5 @@
 {
   "name": "Hass.IO add-on repository by John Dowling, updates by me",
-  "url": "local",
+  "url": "https://github.com/paulsbroomfield/hassio-addons",
   "maintainer": "Paul"
 }
