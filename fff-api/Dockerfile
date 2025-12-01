@@ -1,4 +1,4 @@
-ARG BUILD_FROM=ghcr.io/hassio-addons/base-aarch64:14.1.0
+ARG BUILD_FROM
 FROM ${BUILD_FROM}
 
 # ==============================
@@ -22,7 +22,7 @@ RUN git clone https://github.com/johnpdowling/flashforge-finder-api.git /opt/fff
 WORKDIR /opt/fff-api
 
 # ==============================
-# Copy rootfs (supervisor config, startup scripts, etc)
+# Copy rootfs
 # ==============================
 COPY rootfs /
 
@@ -46,4 +46,3 @@ LABEL \
     org.label-schema.build-date="${BUILD_DATE}" \
     org.label-schema.name="Flashforge-3D-Printer-API Server" \
     org.label-schema.schema-version="1.0"
-
