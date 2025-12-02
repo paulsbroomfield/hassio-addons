@@ -1,29 +1,20 @@
-ARG BUILD_FROM=ghcr.io/home-assistant/amd64-base:3.20
-FROM $BUILD_FROM
+# This base image is defined in build.json (HA chooses the arch)
+ARG BUILD_FROM
+FROM ${BUILD_FROM}
 
-# Install packages
-RUN apk add --no-cache python3 py3-pip git
+# Set up addon environment
+ENV LANG C.UTF-8
 
-# Upgrade pip & install Python deps
-RUN apk add --no-cache --virtual build-deps alpine-sdk cmake git \
-            python python-dev py-pip build-base
-RUN pip install flask flask-cors --upgrade
+# Copy root filesystem (if you create /rootfs structure)
+# COPY rootfs/ /
 
-# Copy API
-RUN git clone https://github.com/paulsbroomfield/flashforge-finder-api.git /opt/fff_api
-WORKDIR /opt/fff_api
+# Copy your application into the container
+WORKDIR /app
+COPY . /app
 
-# Copy rootfs
-COPY rootfs /
+# Install Python dependencies
+# If you have requirements.txt — otherwise remove this line
+RUN pip install --no-cache-dir -r requirements.txt || true
 
-# Labeling
-ARG BUILD_ARCH
-ARG BUILD_DATE
-ARG BUILD_REF
-ARG BUILD_VERSION
-LABEL \
-  io.hass.name="Flashforge 3D Printer API Server" \
-  io.hass.description="API server talking to Flashforge Finder" \
-  io.hass.arch="${BUILD_ARCH}" \
-  io.hass.type="addon" \
-  io.hass.version="${BUILD_VERSION}"
+# Home Assistant requires this entrypoint to stay in foreground
+CMD [ "python3", "/api/app.py" ]
