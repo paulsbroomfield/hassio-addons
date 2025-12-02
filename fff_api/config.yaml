@@ -1,6 +1,6 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
 name: Flashforge Finder API
-version: "0.2.1"
+version: "0.2.2"
 slug: fff_api
 description: API server for Flashforge Finder
 url: "https://github.com/paulsbroomfield/hassio-addons/tree/master/fff_api"
@@ -11,11 +11,11 @@ init: false
 map:
   - share:rw
 options:
-  message: "Hello world..."
+  printer_ip: "192.168.1.15"
 schema:
-  message: "str?"
+  printer_ip: "str?"
 ##image: "ghcr.io/home-assistant/{arch}-fff_api"
 ports: 
-  5000/tcp: 5000
+  8899/tcp: 8899
 ports_description:
-  5000/tcp: "Flask API"
+  8899/tcp: "Flask API"
