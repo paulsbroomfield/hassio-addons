@@ -1,22 +1,19 @@
 {
-  "name": "FlashForge",
+  "name": "Flashforge Finder API",
+  "version": "0.1.2",
   "slug": "fff_api",
-  "version": "0.1.1",
+  "description": "API server for Flashforge Finder",
+  "type": "addon",
   "startup": "services",
-  "url": "https://github.com/paulsbroomfield/hassio-addons/fff_api",
   "boot": "auto",
-  "description": "My FlashForge API add-on",
-  "options": {},
-  "schema": {},
-  "ports": {"8000/tcp": 8000},
+  "arch": ["aarch64", "armv7", "amd64"],
+  "ports": {
+    "5000/tcp": 5000
+  },
   "ports_description": {
-    "8000/tcp": "API interface"
+    "5000/tcp": "Flask API"
   },
-  "options": {
-    "local_only": false
-  },
-  "schema": {
-    "local_only": "bool"
-  },
-  "type": "addon"
+  "host_network": true,
+  "options": {},
+  "schema": {}
 }
