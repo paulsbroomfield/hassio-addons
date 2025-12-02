@@ -3,6 +3,7 @@
   "slug": "fff_api",
   "version": "0.1.1",
   "startup": "services",
+  "url": "https://github.com/paulsbroomfield/hassio-addons.git",
   "boot": "auto",
   "description": "My FlashForge API add-on",
   "options": {},
