@@ -2,19 +2,14 @@
 ARG BUILD_FROM
 FROM ${BUILD_FROM}
 
-# Set up addon environment
-ENV LANG C.UTF-8
+# Creates an image for a hass.io add-on that contains enough software to bother your Flashforge Finder and publish its info.
+# This hass.io addon is based on 01F0's project here: https://github.com/01F0/flashforge-finder-api
 
-# Copy root filesystem (if you create /rootfs structure)
-# COPY rootfs/ /
-
-# Copy your application into the container
-WORKDIR /app
-COPY . /app
-
-# Install Python dependencies
-# If you have requirements.txt — otherwise remove this line
-RUN pip install --no-cache-dir -r requirements.txt || true
-
-# Home Assistant requires this entrypoint to stay in foreground
-CMD [ "python3", "/api/app.py" ]
+#install environment
+RUN apk add --no-cache --virtual build-deps alpine-sdk cmake git \
+            python python-dev py-pip build-base
+RUN pip install flask flask-cors --upgrade
+RUN git clone https://github.com/johnpdowling/flashforge-finder-api.git /fff-api
+    
+# Copy services
+COPY rootfs /

@@ -1,12 +1,18 @@
 {
   "name": "Flashforge Finder API",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "slug": "fff_api",
   "description": "API server for Flashforge Finder",
   "type": "addon",
-  "startup": "services",
+  "startup": "before",
   "boot": "auto",
-  "arch": ["aarch64", "armv7", "amd64"],
+  "arch": [
+    "aarch64",
+    "amd64",
+    "armhf",
+    "armv7",
+    "i386"
+  ],
   "ports": {
     "5000/tcp": 5000
   },
@@ -14,6 +20,10 @@
     "5000/tcp": "Flask API"
   },
   "host_network": true,
-  "options": {},
-  "schema": {}
+  "options": {
+    "local_only": false
+  },
+  "schema": {
+    "local_only": "bool"
+  }
 }

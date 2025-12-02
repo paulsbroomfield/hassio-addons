@@ -1,9 +1,11 @@
 {
+    "squash": false,
   "build_from": {
-    "aarch64": "ghcr.io/home-assistant/aarch64-addon-base-python:3.14",
-    "amd64": "ghcr.io/home-assistant/amd64-addon-base-python:3.14",
-    "armv7": "ghcr.io/home-assistant/armv7-addon-base-python:3.14",
-    "armhf": "ghcr.io/home-assistant/armhf-addon-base-python:3.14"
+    "aarch64": "hassioaddons/aarch64-addon-base-python:3.14",
+    "amd64": "hassioaddons/home-assistant/amd64-addon-base-python:3.14",
+    "armv7": "hassioaddons/home-assistant/armv7-addon-base-python:3.14",
+    "armhf": "hassioaddons/home-assistant/armhf-addon-base-python:3.14",
+    "i386": "hassioaddons/home-assistant/i386-addon-base-python:3.14"
   },
   "args": {}
 }
