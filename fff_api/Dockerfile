@@ -1,11 +1,19 @@
 ARG BUILD_FROM
 FROM ${BUILD_FROM}
 
-#install environment
+# Install environment
 RUN apk add --no-cache --virtual build-deps alpine-sdk cmake git \
-            python python-dev py-pip build-base
-RUN pip install flask flask-cors --upgrade
+            python3 python3-dev py3-pip build-base
+
+# Upgrade pip and install Python packages
+RUN pip3 install --upgrade pip
+RUN pip3 install flask flask-cors
+
+# Clone your API
 RUN git clone https://github.com/paulsbroomfield/flashforge-finder-api.git /fff_api
-    
+
 # Copy services
 COPY rootfs /
+
+# Optional: remove build deps to slim down image
+RUN apk del build-deps
