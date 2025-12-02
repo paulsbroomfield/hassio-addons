@@ -7,5 +7,14 @@
   "description": "My FlashForge API add-on",
   "options": {},
   "schema": {},
-  "ports": {"8000/tcp": 8000}
+  "ports": {"8000/tcp": 8000},
+  "ports_description": {
+    "8000/tcp": "API interface"
+  },
+  "options": {
+    "local_only": false
+  },
+  "schema": {
+    "local_only": "bool"
+  }
 }
