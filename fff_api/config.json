@@ -17,5 +17,6 @@
   },
   "schema": {
     "local_only": "bool"
-  }
+  },
+  "type": "addon"
 }
